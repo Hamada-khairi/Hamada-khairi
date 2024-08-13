@@ -1,16 +1,10 @@
-# Hello, I'm Mohamed Khairy Mohamed Abdelraouf 👋
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGtVevgklc35w/profile-displaybackgroundimage-shrink_350_1400/0/1683186196674?e=1729123200&v=beta&t=gtq4A_hmig879XsJqkSDlK1mZAszYfCmtlrwLn2HxYg)](https://github.com/Hamada-khairi)
+
+# Hello, I'm Mohamed Khairy 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Jr.+Cybersecurity+Researcher;Cyber+Security+Engineer;Continuous+Learner)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-
-
-
-
-
-
 
 ## 👨‍💻 About Me
 
@@ -33,10 +27,21 @@
 
 ## 🏆 Certifications
 
-- eWAPTX
-- eCTHP
-- eCPPT
-- eJPT
+<p align="center">
+  <a href="https://certs.ine.com/embed/4c827e48-68d0-4004-a772-c32305b8aaf4" target="_blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/106325660" alt="eWAPTX" width="100" height="100"/>
+  </a>
+  <a href="https://certs.ine.com/embed/af1769ff-44c6-496b-8134-2b94ee3c6367" target="_blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/106644436" alt="eCTHP" width="100" height="100"/>
+  </a>
+  <a href="https://certs.ine.com/embed/44270e37-ea2d-49f5-9768-8a7d776e4fe4" target="_blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87460833" alt="eCPPT" width="100" height="100"/>
+  </a>
+  <a href="https://certs.ine.com/embed/7ab7bd56-6a23-4f04-9389-57d64bf5e9f6" target="_blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81525733" alt="eJPT" width="100" height="100"/>
+  </a>
+</p>
+
 - RCCE (Rocheston Certified Cybersecurity Engineer)
 - CAP
 - PenTester
@@ -65,21 +70,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamada-khairi&show_icons=true&theme=radical" alt="Mohamed's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamada-khairy&show_icons=true&theme=radical" alt="Mohamed's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamada-khairi&theme=radical" alt="Mohamed's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamada-khairy&theme=radical" alt="Mohamed's GitHub streak" />
 </p>
 
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-khairy-m-653a40199)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Hamada01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamadakhairi09@gmail.com)
+
+## 🏆 TryHackMe Badge
+
+<p align="center">
+  <script src="https://tryhackme.com/badge/1015744"></script>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamada-khairi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Hamada-khairy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
