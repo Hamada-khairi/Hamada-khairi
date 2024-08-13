@@ -60,7 +60,6 @@
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Hamada01.png" alt="TryHackMe">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Hamada-khairi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </div>
 
 <h2 align="center">🐍 Contribution Graph</h2>
