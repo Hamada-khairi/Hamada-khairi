@@ -3,10 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Jr.+Cybersecurity+Researcher;Cyber+Security+Engineer;Continuous+Learner)](https://git.io/typing-svg)
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500">
-</p>
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center" style="margin-bottom: 20px;">
