@@ -81,9 +81,6 @@
 
 <div align="center">
   
-  <a href="https://github.com/Hamada-khairi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamada-khairi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Hamada-khairi's GitHub Stats"/>
-  </a>
   
   <a href="https://github.com/Hamada-khairi">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamada-khairi&theme=radical&hide_border=true" alt="Hamada-khairi's GitHub Streak"/>
