@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQGtVevgklc35w/profile-displaybackgroundimage-shrink_350_1400/0/1683186196674?e=1729123200&v=beta&t=gtq4A_hmig879XsJqkSDlK1mZAszYfCmtlrwLn2HxYg)](https://github.com/Hamada-khairy)
 
-# Hello, I'm Mohamed Khairy 👋
+# Hello, I'm Mohamed Khairy AKA Hamada 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Jr.+Cybersecurity+Researcher;Cyber+Security+Engineer;Continuous+Learner)](https://git.io/typing-svg)
 
@@ -101,10 +101,7 @@
 
 </div>
 
-<h3 align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Hamada-khairi/count.svg" />
-</h3>
+
 
 ## 🌐 Connect with me
 
@@ -118,6 +115,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamada-khairy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<h3 align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Hamada-khairi/count.svg" />
+</h3>
