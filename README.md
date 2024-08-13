@@ -55,21 +55,22 @@
 - CAP
 - PenTester
 
+
 ## 💼 Professional Experience
 
-### BroadBITS, Kuwait
-**Cyber Security Engineer** (November 2023 - Present)
-- Conduct security assessments and implement vital controls
-- Monitor security events to protect critical assets
-- Leverage expertise in cybersecurity tools and cloud strategy
+### 🏢 BroadBITS, Kuwait
+**🛡️ Cyber Security Engineer** (August 2023 - Present)
+- 🔍 Conduct security assessments and implement vital controls
+- 🖥️ Monitor security events to protect critical assets
+- 🚀 Leverage expertise in cybersecurity tools and cloud strategy
 
-### Dusky.Co, Singapore
-**Software Engineer** (June 2023 - July 2023)
-- Worked as a Backend Developer
+### 🏙️ Dusky.Co, Singapore
+**👨‍💻 Software Engineer** (June 2023 - July 2023)
+- 🖥️ Worked as a Backend Developer
 
-### Asia Pacific University of Technology and Innovation (APU / APIIT), Malaysia
-**SOC Analyst** (April 2023 - July 2023)
-- Gained 50 hours of experience with weekly report submissions
+### 🎓 Asia Pacific University of Technology and Innovation (APU / APIIT), Malaysia
+**🔐 SOC Analyst** (April 2023 - July 2023)
+- ⏱️ Gained 50 hours of experience with weekly report submissions
 
 ## 🎓 Education
 
@@ -84,8 +85,7 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-khairy-m-653a40199)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamadakhairi09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-khairy-m-653a40199) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hamada-khairi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/a7ma29) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hamada_khairi) 
 
 ## 🏆 TryHackMe Badge
 
