@@ -79,9 +79,32 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Hamada-khairi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hamada-khairi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamada-khairi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  
+  <a href="https://github.com/Hamada-khairi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamada-khairi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Hamada-khairi's GitHub Stats"/>
+  </a>
+  
+  <a href="https://github.com/Hamada-khairi">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamada-khairi&theme=radical&hide_border=true" alt="Hamada-khairi's GitHub Streak"/>
+  </a>
+
+  <br/>
+  
+  <a href="https://github.com/Hamada-khairi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamada-khairi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Hamada-khairi's Top Languages"/>
+  </a>
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamada-khairi&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Hamada-khairi's GitHub Trophies"/>
+
+</div>
+
+<h3 align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Hamada-khairi/count.svg" />
+</h3>
 
 ## 🌐 Connect with me
 
