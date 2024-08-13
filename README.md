@@ -97,41 +97,49 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamada-khairi&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamada-khairi&show_icons=true&count_private=true&hide_border=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E" alt="Hamada-khairi's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamada-khairi&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamada-khairi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamada-khairi&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamada-khairi&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=4" alt="achievement" />
 </p>
 
 <h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohamed-khairy-m-653a40199">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/mohamed-khairy-m-653a40199" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@hamada-khairi">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  <a href="https://medium.com/@hamada-khairi" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://reddit.com/user/a7ma29">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
+  <a href="https://reddit.com/user/a7ma29" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"/>
   </a>
-  <a href="https://x.com/hamada_khairi">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  <a href="https://x.com/hamada_khairi" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
 </p>
 
-<h2 align="center">🏆 TryHackMe Badge</h2>
+<h2 align="center">🏆 TryHackMe Badge & Profile Views</h2>
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Hamada01.png" alt="TryHackMe">
 </p>
 
-<h2 align="center">👁️ Profile Views</h2>
-
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Hamada-khairi/count.svg" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=Hamada-khairi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 <h2 align="center">🐍 Contribution Graph</h2>
