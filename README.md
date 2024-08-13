@@ -9,6 +9,11 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400" style="border-radius: 20px; margin: 10px;">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Cybersecurity" width="400" style="border-radius: 20px; margin: 10px;">
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Cyber_Security_Engineer-BroadBITS-blue?style=for-the-badge&logo=shield" alt="Current Role">
   <img src="https://img.shields.io/badge/Student-De_Montfort_University-orange?style=for-the-badge&logo=graduation-cap" alt="Education">
