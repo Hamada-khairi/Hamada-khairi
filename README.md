@@ -4,7 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Jr.+Cybersecurity+Researcher;Cyber+Security+Engineer;Continuous+Learner)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ## 👨‍💻 About Me
 
@@ -14,6 +16,13 @@
 - 💼 Experience in conducting security assessments and implementing vital controls
 - 🛡️ Passionate about safeguarding critical assets and protecting digital infrastructures
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohamed-khairy-m-653a40199) | [Email](mailto:hamadakhairi09@gmail.com)
+
+    </td>
+    <td valign="top" width="50%">
+      <img align="right" alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Skills & Technologies
 
@@ -69,13 +78,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamada-khairy&show_icons=true&theme=radical" alt="Mohamed's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamada-khairy&theme=radical" alt="Mohamed's GitHub streak" />
-</p>
+<a href="https://github.com/Hamada-khairy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hamada-khairy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hamada-khairy&layout=compact&langs_count=8&theme=radical"/>
+</a>
 
 ## 🌐 Connect with me
 
