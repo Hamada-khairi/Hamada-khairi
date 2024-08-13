@@ -78,10 +78,9 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Hamada-khairy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hamada-khairy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hamada-khairy&layout=compact&langs_count=8&theme=radical"/>
-</a>
+![](https://github-readme-stats.vercel.app/api?username=Hamada-khairi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hamada-khairi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamada-khairi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Connect with me
 
