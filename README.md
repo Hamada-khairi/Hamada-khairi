@@ -68,3 +68,8 @@
 <div align="center">
   <img src="https://github.com/Hamada-khairi/Hamada-khairi/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </div>
+
+<h3 align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Hamada-khairi/count.svg" />
+</h3>
