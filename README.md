@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGtVevgklc35w/profile-displaybackgroundimage-shrink_350_1400/0/1683186196674?e=1729123200&v=beta&t=gtq4A_hmig879XsJqkSDlK1mZAszYfCmtlrwLn2HxYg)](https://github.com/Hamada-khairi)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGtVevgklc35w/profile-displaybackgroundimage-shrink_350_1400/0/1683186196674?e=1729123200&v=beta&t=gtq4A_hmig879XsJqkSDlK1mZAszYfCmtlrwLn2HxYg)](https://github.com/Hamada-khairy)
 
 # Hello, I'm Mohamed Khairy 👋
 
@@ -85,7 +85,7 @@
 ## 🏆 TryHackMe Badge
 
 <p align="center">
-  <script src="https://tryhackme.com/badge/1015744"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Hamada01.png" alt="TryHackMe">
 </p>
 
 ---
