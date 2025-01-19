@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGtVevgklc35w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1683186196674?e=1735171200&v=beta&t=BKTt3SvIc9ro84YNBeqin9-zybgj30jnjV2Bdu5seVY" alt="MasterHead" width="100%">
+  <img src="https://github.com/user-attachments/assets/7c973126-84dc-46bd-be2e-7a1541a25c97" alt="MasterHead" width="100%">
 </div>
 
 <h1 align="center">
