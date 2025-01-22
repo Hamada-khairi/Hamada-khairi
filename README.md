@@ -28,16 +28,7 @@
   <img src="https://img.shields.io/badge/Incident%20Response-D00000?style=for-the-badge&logo=red-hat&logoColor=white" alt="Incident Response">
 </p>
 
-<h2 align="center">📊 GitHub Stats & Achievements</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamada-khairi&show_icons=true&count_private=true&hide_border=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamada-khairi&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamada-khairi&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
 
 <h2 align="center">🏆 Certifications</h2>
 
