@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/7c973126-84dc-46bd-be2e-7a1541a25c97" alt="MasterHead" width="100%">
-</div>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=800&height=120&lines=Hello%2C+I'm+Mohamed+Khairy;Cybersecurity+Engineer;Continuous+Learner" alt="Typing SVG" />
